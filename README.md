@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=black"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow">
 
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Z-Wave-1B365D?style=for-the-badge&logo=Z-Wave&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/ZWave-1B365D?style=for-the-badge&logo=ZWave&logoColor=white"><img src="https://img.shields.io/badge/Elsevier-FF6C00?style=for-the-badge&logo=Elsevier&logoColor=white">
 
 <!--
 **k8s-ho/k8s-ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
