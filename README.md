@@ -9,7 +9,8 @@
 <br>  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=black"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow">
 <br>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"><img src="https://img.shields.io/badge/ZWave-1B365D?style=for-the-badge&logo=ZWave&logoColor=white"><img src="https://img.shields.io/badge/Elsevier-FF6C00?style=for-the-badge&logo=Elsevier&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"><img src="https://img.shields.io/badge/ZWave-1B365D?style=for-the-badge&logo=ZWave&logoColor=white"><img src="https://img.shields.io/badge/Elsevier-FF6C00?style=for-the-badge&logo=Elsevier&logoColor=white"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k8s-ho&layout=compact">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=IMyoungho&fontSize=90" />
 </div>
 <!--
