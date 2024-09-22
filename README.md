@@ -2,9 +2,12 @@
     <h3> Hi there 👋</h3>
 <p align="center">
 <img src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100">
+<img src="https://images.credly.com/size/680x680/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" width="100">
 <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100">
 <img src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" width="100">
 <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/07/kubernetes-security-specialist-logo-300x285.png" width="100"> 
+<img src="https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="100"> 
+<img src="https://images.credly.com/size/680x680/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" width="100"> 
 </p>
 
   
